@@ -14,6 +14,9 @@
     <body class="container">
         
                 <h1 class="woff ">hello world</h1>
+                <form action="/altro">
+                    <button type="submit"> Cambia Pagina</button>
+                </form>
                 
     </body>
 </html>
